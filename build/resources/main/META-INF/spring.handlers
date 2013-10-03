@@ -1,0 +1,1 @@
+http\://vertx.io/schema/spring/vertx=org.vertx.spring.config.xml.VertxNamespaceHandler

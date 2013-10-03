@@ -1,0 +1,5 @@
+org.vertx.java.deploy.impl.spring
+org.vertx.spring
+org.vertx.spring.config
+org.vertx.spring.config.annotation
+org.vertx.spring.config.xml
